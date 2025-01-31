@@ -1,2 +1,2 @@
 # ali
-this is my firdt project 
+this is my first project 
